@@ -1,0 +1,40 @@
+########################################
+# Third-party libraries (install via pip)
+########################################
+
+# Telegram library (commonly python-telegram-bot)
+python-telegram-bot
+
+# Requests for HTTP
+requests
+
+# Scheduling jobs
+schedule
+
+# TradingView technical analysis library
+tradingview-ta
+
+# Rich text formatting
+rich
+
+# Playwright for browser automation (requires `playwright install`)
+playwright
+
+# Natural Language Toolkit
+nltk
+
+########################################
+# The following are typically part of
+# the Python standard library or require
+# system packages on some OSes.
+# Listed here for completeness only:
+########################################
+
+os
+json
+logging
+threading
+time
+datetime
+importlib
+tkinter
